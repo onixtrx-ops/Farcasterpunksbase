@@ -7,9 +7,9 @@
   "frame": {
     "version": "1",
     "name": "Farcaster Punks \u2014 Official Mint",
-    "homeUrl": "https://farcaster-punks-mint.vercel.app/",
-    "imageUrl": "https://farcaster-punks-mint.vercel.app/public/assets/logo.png",
-    "postUrl": "https://farcaster-punks-mint.vercel.app/api/mint",
+    "homeUrl": "https://farcaster-punks-mint-base.vercel.app/",
+    "imageUrl": "https://farcaster-punks-mint-base.vercel.app/public/assets/logo.png",
+    "postUrl": "https://farcaster-punks-mint-base.vercel.app/api/mint",
     "buttons": [
       {
         "title": "Mint Now"
