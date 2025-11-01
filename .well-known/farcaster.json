@@ -1,26 +1,13 @@
-{
-  "accountAssociation": {
-    "header": "eyJmaWQiOjM0NjA3NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDEwTlGNDFBNzhlNENDQ0FhZUEyQzUxZGZiNUY2RmYwMjIzMTgifQ",
-    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItcHVua3MtbWludC52ZXJjZWwuYXBwIn0",
-    "signature": "SIgOnU0HEDeIMZTLT7ywJKXUHcX0vj+QQxv8ontb7xtJ7t1eRaoEuOPtT9pn3OjovFThj8ZZqiXb6J97IBkfxs="
-  },
-  "frame": {
-    "version": "1",
-    "name": "Farcaster Punks \u2014 Official Mint",
-    "homeUrl": "https://farcaster-punks-mint-base.vercel.app/",
-    "imageUrl": "https://farcaster-punks-mint-base.vercel.app/public/assets/logo.png",
-    "postUrl": "https://farcaster-punks-mint-base.vercel.app/api/mint",
-    "buttons": [
-      {
-        "title": "Mint Now"
-      },
-      {
-        "title": "View on OpenSea",
-        "action": "link",
-        "target": "https://opensea.io/collection/farcaster-punks-59466883/overview"
-      }
-    ],
-    "splashImageUrl": "https://farcaster-punks-mint.vercel.app/public/assets/logo.png",
-    "splashBackgroundColor": "#110033"
-  }
+"frame": {
+  "version": "1",
+  "name": "Farcaster Punks — Official Mint",
+  "homeUrl": "https://farcaster-punks-mint-base.vercel.app/",
+  "imageUrl": "https://farcaster-punks-mint-base.vercel.app/assets/logo.png",
+  "postUrl": "https://farcaster-punks-mint-base.vercel.app/api/mint",
+  "buttons": [
+    { "title": "Mint Now" },
+    { "title": "View on OpenSea", "action": "link", "target": "https://opensea.io/collection/farcaster-punks-59466883/overview" }
+  ],
+  "splashImageUrl": "https://farcaster-punks-mint.vercel.app/ssets/logo.png",
+  "splashBackgroundColor": "#110033"
 }
